@@ -12,3 +12,4 @@ https://github.com/Koenkk/Z-Stack-firmware/blob/master/coordinator/Z-Stack_3.x.0
 Currently I am using the 'kitchen sink' variant:
 Modified for 460800 Baud, Using RTS/CTS flow control and 20db output - so far, so solid.
 
+(To flash this, I use the Sonoff online flasher under Edge - seems to be reliable)
